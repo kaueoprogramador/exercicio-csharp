@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\Documents\\kaue\\media\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3BA636-DDC2-4C42-997D-6197C90E7E35}|media\\media.csproj|c:\\users\\fic\\documents\\kaue\\media\\media\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3BA636-DDC2-4C42-997D-6197C90E7E35}|media\\media.csproj|solutionrelative:media\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\kaue\\media\\media\\Program.cs",
+              "RelativeDocumentMoniker": "media\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\kaue\\media\\media\\Program.cs",
+              "RelativeToolTip": "media\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:53:57.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
