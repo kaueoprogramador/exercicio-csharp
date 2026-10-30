@@ -1,0 +1,15 @@
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\bin\Debug\net10.0\arrayListas.exe
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\bin\Debug\net10.0\arrayListas.deps.json
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\bin\Debug\net10.0\arrayListas.runtimeconfig.json
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\bin\Debug\net10.0\arrayListas.dll
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\bin\Debug\net10.0\arrayListas.pdb
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\obj\Debug\net10.0\arrayListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\obj\Debug\net10.0\arrayListas.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\obj\Debug\net10.0\arrayListas.AssemblyInfo.cs
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\obj\Debug\net10.0\arrayListas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\obj\Debug\net10.0\arrayListas.sourcelink.json
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\obj\Debug\net10.0\arrayListas.dll
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\obj\Debug\net10.0\refint\arrayListas.dll
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\obj\Debug\net10.0\arrayListas.pdb
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\obj\Debug\net10.0\arrayListas.genruntimeconfig.cache
+C:\Users\fic\Documents\kaue\array\arrayListas\arrayListas\obj\Debug\net10.0\ref\arrayListas.dll
